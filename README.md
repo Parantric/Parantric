@@ -2,7 +2,15 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parantric)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parantric&repo=happy_spaces)](https://github.com/Parantric/happy_spaces)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parantric&repo=aliyunpan-1)](https://github.com/Parantric/aliyunpan-1)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parantric&repo=Umi-OCR)](https://github.com/Parantric/Umi-OCR)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parantric&layout=compact)](https://github.com/Parantric/tips)
 
 ---
 
